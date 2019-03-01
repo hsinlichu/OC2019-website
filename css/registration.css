@@ -1,0 +1,9 @@
+#registration .without_p{
+    margin-bottom: 1rem;
+}
+#registration li{
+    margin-bottom: 1rem;
+}
+ol li:first-child{
+    margin-top: 1rem;
+}
